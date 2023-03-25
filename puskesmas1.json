@@ -4,20 +4,44 @@
     {
       "type": "Feature",
       "properties": {
-        "Nama": "Rumah saya",
-        "marker-color": "#008a22",
-        "marker-size": "small",
-        "popupContent": "Ini adalah rumah saya"
-        
+        "title": "Puskesmas A",
+        "description": "Ini adalah Puskesmas A"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
-        110.39836548135344,
-          -7.769836205591872
-        ],
-        "type": "Point"
+          110.39478206634521,
+          -7.771527582068853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Puskesmas B",
+        "description": "Ini adalah Puskesmas B"
       },
-      "id": 0
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4018199443817,
+          -7.769709175362614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Puskesmas C",
+        "description": "Ini adalah Puskesmas C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39830801677705,
+          -7.768771456460927
+        ]
+      }
     }
   ]
-};
+}
