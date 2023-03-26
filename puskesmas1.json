@@ -287,7 +287,7 @@
       "type": "Feature",
       "properties": {
         "title": "Puskesmas Depok 2",
-        "description": "NANGGULAN,Ringinsari Ds. Maguwoharjo, Kec. Depok 555282"
+        "description": "Jl. Leli III Perumnas Condong Catur, Kec. Depok"
       },
       "geometry": {
         "type": "Point",
@@ -296,7 +296,19 @@
         -7.756591282433433
       ]
     }
-    }
+    },
+    {"type": "Feature",
+      "properties": {
+        "title": "Puskesmas Depok 3",
+        "description": "Komp. Colombo No. 50.A Ds. Caturtunggal Kec. Depok 55281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38945501524722,
+          -7.778281628889673
+      ]
+      }
     ]
     }
 
