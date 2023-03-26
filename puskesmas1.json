@@ -1,47 +1,62 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Puskesmas A",
-        "description": "Ini adalah Puskesmas A"
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Puskesmas Danurejan 1",
+          "description": "Jl. Danurejan, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37522644047772,
+            -7.79454561196728
+          ]
+        }
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          110.39478206634521,
-          -7.771527582068853
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Puskesmas B",
-        "description": "Ini adalah Puskesmas B"
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Puskesmas Danurejan 2",
+          "description": "Jl. Krasak Timur No.34, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.4018199443817,
+            -7.769709175362614
+          ]
+        }
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          110.4018199443817,
-          -7.769709175362614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Puskesmas C",
-        "description": "Ini adalah Puskesmas C"
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Puskesmas Gondokusuman 1",
+          "description": "Jl. Tunjung No.1, Baciro, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55225"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.38073472177882,
+            -7.793785248263319
+          ]
+        }
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          110.39830801677705,
-          -7.768771456460927
-        ]
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Puskesmas Gondokusuman 2",
+          "description": "Jl. Prof. DR. Sardjito No.22, Terban, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55223"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37101501088898,
+            -7.778642554848076
+          ]
+        }
       }
-    }
-  ]
-}
+    ]
+  }
+  
